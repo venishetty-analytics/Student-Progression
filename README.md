@@ -32,4 +32,4 @@ This interactive Power BI dashboard analyzes student performance across departme
 - `README.md`
 
 ## 📬 Contact
-Made by [Your Name] – Reach out on [LinkedIn](your-link) or [Email](mailto:you@example.com)
+Made by [Santhosh Kumar Venishetty] – Reach out on [LinkedIn: www.linkedin.com/in/venishetty] or [Email : Venishetty1998@gmail.com]

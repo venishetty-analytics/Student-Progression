@@ -1,2 +1,35 @@
-# Student-Progression-
-BI Dashboard with sample student Data
+# 🎓 Education Performance Dashboard – Power BI Project
+
+## 📌 Overview
+This interactive Power BI dashboard analyzes student performance across departments, courses, and years. It identifies trends in pass rates, average scores, dropout rates, and demographic distributions.
+
+## 📊 Key Metrics
+- Pass Rate by Department and Year
+- Dropout Trends by Course
+- Average Scores by Gender and Department
+- Student Distribution by Course, Year, and Gender
+
+## 🛠 Tools Used
+- Microsoft Power BI
+- Power Query for data cleaning
+- DAX for calculated metrics
+
+## 📂 Dataset
+- Simulated educational dataset containing 200 records
+- Fields: Student ID, Name, Gender, Department, Course, Score, Result, Year, Dropout
+
+## 📷 Screenshots
+*(Add images inside `/screenshots` folder and embed below)*
+
+## 🚀 Highlights
+- Used slicers for interactive filtering by year, course, and gender
+- Designed custom theme for consistent visual storytelling
+- Built with modular structure for scalability
+
+## 📎 Files Included
+- `Simulated_Education_Data.xlsx`
+- `Education_Dashboard.pbix`
+- `README.md`
+
+## 📬 Contact
+Made by [Your Name] – Reach out on [LinkedIn](your-link) or [Email](mailto:you@example.com)

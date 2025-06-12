@@ -19,7 +19,7 @@ This interactive Power BI dashboard analyzes student performance across departme
 - Fields: Student ID, Name, Gender, Department, Course, Score, Result, Year, Dropout
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/a8d99a77-9d96-4339-a3f4-254cfbccb8f8)
+![image]([https://github.com/user-attachments/assets/a8d99a77-9d96-4339-a3f4-254cfbccb8f8](https://github.com/venishetty-analytics/Student-Progression/blob/main/Screenshot%202025-06-12%20131403.png))
 
 ## 🚀 Highlights
 - Used slicers for interactive filtering by year, course, and gender
